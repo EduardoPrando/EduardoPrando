@@ -1,4 +1,4 @@
-## Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=EduardoPrando)
+# Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=EduardoPrando)
 
 My name is Eduardo, <br />
 I\`m currently studying at Trybe. <br />
