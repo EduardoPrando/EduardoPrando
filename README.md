@@ -1,8 +1,8 @@
 # Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=EduardoPrando)
 
 My name is Eduardo, <br />
-I\`m currently studying at Trybe. <br />
-Front-end Developer, soon-to-be a full stack.
+<br />
+Full stack Developer.
 
 Connect with me here: <br />
 <a href="https://www.linkedin.com/in/eduardolprando/">
